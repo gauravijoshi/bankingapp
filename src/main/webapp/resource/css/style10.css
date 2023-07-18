@@ -1,0 +1,59 @@
+.delete{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #D2B48C;  
+        border-radius: 10px ;  
+        text-align: center; 
+        margin-top:50px;  
+}  
+.header{
+	width: 100%;
+	background: #D2B48C;
+	text-align: left; 
+	margin-top: 0;
+}
+
+.menu{
+	width: 100%;
+	background:#D2B48C;
+	text-align: left; 
+	height: 40px;
+}
+
+h2{  
+    text-align: center;  
+    color: black;  
+    padding: 20px;  
+}  
+
+table{
+	table-layout: fixed;
+	width:100%;
+	text-align:center;
+	margin-top:20px;
+}  
+
+tr, th, td {
+  border-bottom: 1px solid ;
+}
+
+.footer{
+	width: 100%;
+	background:#D2B48C;
+	text-align: center;
+	height: 70px; 
+	bottom: 0px;
+}  
+
+
+.error{
+	 text-align: center;
+    color: red;
+}
+.success{
+	text-align: center;
+    color: green;
+}

@@ -1,0 +1,53 @@
+ 
+button{  
+        width: 200px;  
+        overflow: hidden;  
+        margin-top: 50px; 
+        margin-left:75px;
+        margin-right:50px;
+        padding: 20px;  
+        background: #D2B48C;  
+        border-radius: 10px ;  
+        text-align: center;   
+}  
+
+.header{
+	width: 100%;
+	background: #D2B48C;
+	text-align: left; 
+	margin-top: 0;
+}
+
+.menu{
+	width: 100%;
+	background:#D2B48C;
+	text-align: left; 
+	height: 40px;
+}
+
+h2{  
+    text-align: center;  
+    color: black;  
+    padding: 20px;  
+}  
+label{  
+    color: black;  
+    font-size: 17px;  
+}  
+.footer{
+	width: 100%;
+	background:#D2B48C;
+	text-align: center;
+	height: 70px; 
+	bottom: 0px;
+}  
+
+
+.error{
+	 text-align: center;
+    color: red;
+}
+.success{
+	text-align: center;
+    color: green;
+}
